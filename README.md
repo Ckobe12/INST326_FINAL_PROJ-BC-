@@ -1,3 +1,3 @@
 # INST326_FINAL_PROJ-BC-
 INST 326 FINAL PROJECT REPOSITORY FOR Big Coders ! 
-Restuarant File!
+Restuarant Menu Style!
